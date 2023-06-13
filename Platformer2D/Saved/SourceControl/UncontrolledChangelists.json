@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/garci/Desktop/gameCurr/Platformer2D/Content/Blueprints/Enemy/BP_OrcWarrior.uasset",
+				"C:/Users/garci/Desktop/gameCurr/Platformer2D/Content/Maps/MAP_Main.umap",
+				"C:/Users/garci/Desktop/gameCurr/Platformer2D/Content/Blueprints/Enemy/EBP_OrcWar.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Maps/MAP_Main.umap",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Assets/TS_OakWood.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Assets/background_layer_1_TileSet.uasset",
@@ -64,7 +67,7 @@
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Assets/Textures/background_layer_3Padded.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Blueprints/BP_MovingPlatform.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/WB_UI.uasset",
-				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Maps/MAP_Main2.umap",
+				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Maps/Map_Main2.umap",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Maps/MAP_StageTransition.umap",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Blueprints/BP_EndStage.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Maps/MAP_Main3.umap",
@@ -788,7 +791,6 @@
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/__ExternalActors__/Maps/MAP_Main/9/50/YDVHPBKF88J4BUQKASRKXZ.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/__ExternalActors__/Maps/MAP_Main/9/YP/QKJ6T3YHIQ87BSKC77SYFJ.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/__ExternalActors__/Maps/MAP_Main/7/WA/6HGWQ2362G5JLBQR4DQ4TX.uasset",
-				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Maps/Map_Main2.umap",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Assets/oak_woods_tileset_TileSet.uasset",
 				"C:/Users/Seraf/Documents/Unreal Projects/Platformer2D/Content/Assets/Textures/FB_IDLE.uasset"
 			]
